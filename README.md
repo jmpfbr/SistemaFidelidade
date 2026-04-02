@@ -1,7 +1,6 @@
 # 🍔 Sistema de Fidelidade - Hamburgueria Python
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Security](https://img.shields.io/badge/Security-SHA--256-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
 Sistema de gerenciamento de pedidos e fidelidade via terminal, permitindo que clientes acumulem pontos em compras reais e os troquem por produtos do cardápio especial.
