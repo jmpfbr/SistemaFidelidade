@@ -37,7 +37,7 @@ O projeto é um script robusto em Python que simula a operação de uma hamburgu
 
 ```text
 .
-├── sistema_fidelidade.py   # Script principal com toda a lógica
+├── main.py   # Script principal com toda a lógica
 └── README.md               # Documentação do projeto
 ```
 
